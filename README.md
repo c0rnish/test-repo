@@ -1,2 +1,2 @@
 # test-repo
-Test Repository
+Personal Git/GitHub test repository.
