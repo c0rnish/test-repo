@@ -1,5 +1,0 @@
-version: 1
-settings:
-    automatic_review: false
-    automatic_incremental_review: false
-    request_changes_workflow: false
